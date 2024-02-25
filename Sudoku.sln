@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.WPF", "Sudoku.WPF\Sudoku.WPF.csproj", "{7A2CD4F5-9815-4D29-9A9A-B23B02177896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Lib", "Sudoku.Lib\Sudoku.Lib.csproj", "{E49F6586-B9D8-4214-BA77-2F2A0578E77F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2CD4F5-9815-4D29-9A9A-B23B02177896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2CD4F5-9815-4D29-9A9A-B23B02177896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2CD4F5-9815-4D29-9A9A-B23B02177896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2CD4F5-9815-4D29-9A9A-B23B02177896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E49F6586-B9D8-4214-BA77-2F2A0578E77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49F6586-B9D8-4214-BA77-2F2A0578E77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49F6586-B9D8-4214-BA77-2F2A0578E77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49F6586-B9D8-4214-BA77-2F2A0578E77F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D122DE-079D-4DEC-AEF7-E05DA183BCCD}
+	EndGlobalSection
+EndGlobal
