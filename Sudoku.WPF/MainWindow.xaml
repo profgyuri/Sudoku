@@ -64,6 +64,7 @@
                         <TextBlock
                             Style="{StaticResource PossibilityText}"
                             Text="{Binding Value}"
+                            Visibility="{Binding IsValueVisible, Converter={StaticResource BooleanToVisibilityConverter}}"
                             VerticalAlignment="Center"
                             HorizontalAlignment="Center"
                             FontSize="24"
